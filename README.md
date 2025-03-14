@@ -65,5 +65,5 @@ This project is licensed under the **MIT License**.
 
 ## 📢 Connect with Me
 🔹 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/armanlaliwala/)  
-🔹 GitHub: [Your GitHub]([https://github.com/yourusername](https://github.com/Armanlaliwala/AI-Powered-Bottle-Counting))  
+🔹 GitHub: [Your GitHub]([github.com/Armanlaliwala])  
 🔹 Email: armanlaliwala@gmail.com
